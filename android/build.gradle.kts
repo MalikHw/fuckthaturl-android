@@ -1,0 +1,1 @@
+// This file is intentionally empty for the new Flutter project structure
