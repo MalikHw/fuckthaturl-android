@@ -26,7 +26,7 @@ class FuckThatURLApp extends StatelessWidget {
           tertiary: const Color(0xFF00FF88),
         ),
         scaffoldBackgroundColor: const Color(0xFF0A0A0A),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: const Color(0xFF1A1A1A),
           elevation: 4,
           shape: RoundedRectangleBorder(
